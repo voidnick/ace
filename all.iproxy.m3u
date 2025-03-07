@@ -26,8 +26,6 @@ http://127.0.0.1:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a&
 http://127.0.0.1:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&.mp4
 #EXTINF:-1,BCU Cosmo HD
 http://127.0.0.1:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&.mp4
-#EXTINF:-1,BCU Criminal HD
-http://127.0.0.1:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180&.mp4
 #EXTINF:-1,BCU Fantastic HD
 http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&.mp4
 #EXTINF:-1,BCU Filmystic HD
