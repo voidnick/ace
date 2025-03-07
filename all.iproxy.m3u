@@ -106,10 +106,6 @@ http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&
 http://127.0.0.1:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
 #EXTINF:-1,VIP Serial
 http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
-#EXTINF:-1,Авто 24
-http://127.0.0.1:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&.mp4
-#EXTINF:-1,Арсенал HD
-http://127.0.0.1:6878/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&.mp4
 #EXTINF:-1,Блокбастер HD
 http://127.0.0.1:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
 #EXTINF:-1,Дом кино
@@ -246,6 +242,8 @@ http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&
 http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
 #EXTINF:-1,Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
+#EXTINF:-1,Авто 24
+http://127.0.0.1:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&.mp4
 #EXTINF:-1,Авто Плюс
 http://127.0.0.1:6878/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&.mp4
 #EXTINF:-1,В мире животных
