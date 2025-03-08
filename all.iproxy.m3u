@@ -96,8 +96,6 @@ http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&
 http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
 #EXTINF:-1,TV1000 Русское кино
 http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
-#EXTINF:-1,Travel Channel HD
-http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
 #EXTINF:-1,VIP Comedy
 http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&.mp4
 #EXTINF:-1,VIP Megahit
@@ -118,8 +116,6 @@ http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&
 http://127.0.0.1:6878/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&.mp4
 #EXTINF:-1,Еврокино
 http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&.mp4
-#EXTINF:-1,Здоровое ТВ
-http://127.0.0.1:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&.mp4
 #EXTINF:-1,ИНДИЙСКОЕ КИНО
 http://127.0.0.1:6878/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&.mp4
 #EXTINF:-1,Иллюзион+
@@ -176,10 +172,6 @@ http://127.0.0.1:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&
 http://127.0.0.1:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
 #EXTINF:-1,Наше новое кино
 http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
-#EXTINF:-1,Ностальгия
-http://127.0.0.1:6878/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
-#EXTINF:-1,О!Кино
-http://127.0.0.1:6878/ace/getstream?id=79fc325adef8b1977b790c8435ff868cb6f75794&.mp4
 #EXTINF:-1,Остросюжетное HD
 http://127.0.0.1:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&.mp4
 #EXTINF:-1,Премиальное HD
@@ -210,18 +202,10 @@ http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&
 http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
 #EXTINF:-1,Animal Planet HD
 http://127.0.0.1:6878/ace/getstream?id=4326cb056ec172c0d9958cd44535045723b66068&.mp4
-#EXTINF:-1,Da Vinci
-http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
-#EXTINF:-1,Dikaya Okhota HD
-http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&.mp4
-#EXTINF:-1,Dikaya Rybalka HD
-http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&.mp4
 #EXTINF:-1,Discovery HD
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:-1,Eureka HD
 http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
-#EXTINF:-1,Fashion TV HD
-http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
 #EXTINF:-1,H2 HD
 http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
 #EXTINF:-1,HD Life
@@ -232,6 +216,8 @@ http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&
 http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
 #EXTINF:-1,National Geographic HD
 http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
+#EXTINF:-1,Travel Channel HD
+http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
 #EXTINF:-1,Travel+Adventure HD
 http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
 #EXTINF:-1,Viasat Explore
@@ -264,6 +250,8 @@ http://127.0.0.1:6878/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&
 http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
 #EXTINF:-1,Загородная жизнь
 http://127.0.0.1:6878/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&.mp4
+#EXTINF:-1,Здоровое ТВ
+http://127.0.0.1:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&.mp4
 #EXTINF:-1,Мир Вокруг HD
 http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
 #EXTINF:-1,Моя планета HD
@@ -276,15 +264,9 @@ http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
 #EXTINF:-1,Наука 2.0
 http://127.0.0.1:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
-#EXTINF:-1,Оружие
-http://127.0.0.1:6878/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9&.mp4
 #EXTINF:-1,Охотник и Рыболов HD
 http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&.mp4
-#EXTINF:-1,Поехали!
-http://127.0.0.1:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&.mp4
 #EXTINF:-1,Приключения HD
 http://127.0.0.1:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
-#EXTINF:-1,Сов. Секретно
-http://127.0.0.1:6878/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&.mp4
 #EXTINF:-1,Усадьба
 http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&.mp4
