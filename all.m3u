@@ -114,8 +114,6 @@ acestream://c2877f4320f2029a59f2121525280c539fb1b9e9
 acestream://67cf1b59347125a57a5ea62844a6b77075a3d9dd
 #EXTINF:-1,Душевное
 acestream://82cc7621069b4095f002b43a669b40c2b5342afc
-#EXTINF:-1,Еврокино
-acestream://cda16e6d488958942dcd9cd96284c0910dc29cce
 #EXTINF:-1,ИНДИЙСКОЕ КИНО
 acestream://28ca0f5e5e058a2eda74f7c1595022f2914af123
 #EXTINF:-1,Иллюзион+
@@ -202,8 +200,12 @@ acestream://3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
 acestream://a4d2d63c562696b5ef7731efb7c2df74d9183700
 #EXTINF:-1,Animal Planet HD
 acestream://4326cb056ec172c0d9958cd44535045723b66068
+#EXTINF:-1,DTX
+acestream://b2c8dfc5ec5fdfb098ae4285335ee465f0b63885
 #EXTINF:-1,Discovery HD
 acestream://09f099db0453cf7517e133533aadfd5136eca771
+#EXTINF:-1,Discovery Science HD
+acestream://61c8e867268715eae83f9934e9bc08b1bb6a9227
 #EXTINF:-1,Eureka HD
 acestream://65707378011c08c27dca1f0162d545f369756c5f
 #EXTINF:-1,H2 HD
