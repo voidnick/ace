@@ -34,18 +34,12 @@ acestream://2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
 acestream://2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
 #EXTINF:-1,BCU History HD
 acestream://21fcd8e73936b64435d07832c2d8382609f48d6d
-#EXTINF:-1,BCU Kinorating HD
-acestream://57401c50a256f68da4bc9ebe9965e2f12a9d20e2
 #EXTINF:-1,BCU Kinozakaz HD
 acestream://9cd5a5ee3d83b36cd5dd36dbc912e37531df482b
-#EXTINF:-1,BCU Marvel HD
-acestream://bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
 #EXTINF:-1,BCU Premiere HD
 acestream://52b5bbf1d3a9640f8a186e848f021bfc3daf1154
 #EXTINF:-1,BCU Reality HD
 acestream://22da1ac893c3daf4035261c84e828c8020648187
-#EXTINF:-1,BCU Ruserial HD
-acestream://49552fcef0397a9f48f7520247ee414a085f61e2
 #EXTINF:-1,BCU Russian HD
 acestream://5e38456d774827e7312b7eabdde388532a3dfec9
 #EXTINF:-1,BCU Stars HD
@@ -208,14 +202,10 @@ acestream://09f099db0453cf7517e133533aadfd5136eca771
 acestream://65707378011c08c27dca1f0162d545f369756c5f
 #EXTINF:-1,H2 HD
 acestream://88e804faf482b3caa0a680c931bdd1578c4bfbee
-#EXTINF:-1,HD Life
-acestream://74a1634a8fe44e5058c865d4de63cde90b14f107
 #EXTINF:-1,History HD
 acestream://b5e4d600404702a7d50e01e64f82ea1d26b68f63
 #EXTINF:-1,Nat Geo Wild HD
 acestream://5347a5417c376ac10cdf9c1a3a26eadbe76c280a
-#EXTINF:-1,National Geographic HD
-acestream://3a08c5a973e162429910f441bf8aa45b24d667e0
 #EXTINF:-1,Travel Channel HD
 acestream://48566a80593d54be5543583173fd520ce675d5b2
 #EXTINF:-1,Travel+Adventure HD
@@ -236,8 +226,6 @@ acestream://c3ff9e5243014a19c3cee52159d68fd750eeecb9
 acestream://30ed25e99233ae63f7e10787c8806f74f52a437c
 #EXTINF:-1,Глазами туриста HD
 acestream://4f3037f55f54cf2417a6d6847adc5095537f9e83
-#EXTINF:-1,Диалоги о рыбалке
-acestream://8b0600c72af71a12e844135c93c759ce1eb3dfa0
 #EXTINF:-1,Дикий
 acestream://c60f8614f11e0f11338e25567a92f5fb84eb4832
 #EXTINF:-1,Доктор
