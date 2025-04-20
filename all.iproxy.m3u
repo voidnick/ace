@@ -34,12 +34,18 @@ http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&
 http://127.0.0.1:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&.mp4
 #EXTINF:-1,BCU History HD
 http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d&.mp4
+#EXTINF:-1,BCU Kinorating HD
+http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&.mp4
 #EXTINF:-1,BCU Kinozakaz HD
 http://127.0.0.1:6878/ace/getstream?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b&.mp4
+#EXTINF:-1,BCU Marvel HD
+http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&.mp4
 #EXTINF:-1,BCU Premiere HD
 http://127.0.0.1:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&.mp4
 #EXTINF:-1,BCU Reality HD
 http://127.0.0.1:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187&.mp4
+#EXTINF:-1,BCU Ruserial HD
+http://127.0.0.1:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&.mp4
 #EXTINF:-1,BCU Russian HD
 http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9&.mp4
 #EXTINF:-1,BCU Stars HD
@@ -226,6 +232,8 @@ http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&
 http://127.0.0.1:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&.mp4
 #EXTINF:-1,Авто Плюс
 http://127.0.0.1:6878/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&.mp4
+#EXTINF:-1,В мире животных
+http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
 #EXTINF:-1,Глазами туриста HD
 http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&.mp4
 #EXTINF:-1,Диалоги о рыбалке
