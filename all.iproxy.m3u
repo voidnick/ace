@@ -206,8 +206,6 @@ http://127.0.0.1:6878/ace/getstream?id=4326cb056ec172c0d9958cd44535045723b66068&
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:-1,Eureka HD
 http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
-#EXTINF:-1,H2 HD
-http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
 #EXTINF:-1,HD Life
 http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
 #EXTINF:-1,History HD
@@ -224,8 +222,6 @@ http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&
 http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
 #EXTINF:-1,Viasat History
 http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&.mp4
-#EXTINF:-1,Viasat Nature
-http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
 #EXTINF:-1,Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1,Авто 24
@@ -244,8 +240,6 @@ http://127.0.0.1:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&
 http://127.0.0.1:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&.mp4
 #EXTINF:-1,Драйв
 http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0&.mp4
-#EXTINF:-1,Еда Премиум HD
-http://127.0.0.1:6878/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&.mp4
 #EXTINF:-1,Живая планета
 http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
 #EXTINF:-1,Загородная жизнь
