@@ -210,6 +210,8 @@ acestream://88e804faf482b3caa0a680c931bdd1578c4bfbee
 acestream://74a1634a8fe44e5058c865d4de63cde90b14f107
 #EXTINF:-1,History HD
 acestream://b5e4d600404702a7d50e01e64f82ea1d26b68f63
+#EXTINF:-1,Nat Geo Wild HD
+acestream://5347a5417c376ac10cdf9c1a3a26eadbe76c280a
 #EXTINF:-1,National Geographic HD
 acestream://3a08c5a973e162429910f441bf8aa45b24d667e0
 #EXTINF:-1,Travel Channel HD
@@ -218,6 +220,8 @@ acestream://48566a80593d54be5543583173fd520ce675d5b2
 acestream://6975d82ffdae1186dcc78506011550a81e0c9cb9
 #EXTINF:-1,Viasat Explore
 acestream://192ca66e1e39bec710e286780c49bcc432258636
+#EXTINF:-1,Viasat History
+acestream://05a4d3a925f74cd093dfe2313617a97d1b74c6ab
 #EXTINF:-1,Viasat Nature
 acestream://2128074a1ebba9d320b148d25001b356f1057dda
 #EXTINF:-1,Viasat Nature/History HD
