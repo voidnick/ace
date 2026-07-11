@@ -98,8 +98,6 @@ acestream://af4baf7f76a3057eeea815c90747860e9fec488a
 acestream://8c7b8be6682d84e033352724243719378c3e1540
 #EXTINF:-1,VIP Megahit
 acestream://d83992b759e6227f7cc9a20e4e4dae1b58e645c8
-#EXTINF:-1,VIP Premiere
-acestream://dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5
 #EXTINF:-1,VIP Serial
 acestream://d13dd140058b7a528959e2b709aca4111b7cc076
 #EXTINF:-1,Блокбастер HD
@@ -208,6 +206,8 @@ acestream://65707378011c08c27dca1f0162d545f369756c5f
 acestream://88e804faf482b3caa0a680c931bdd1578c4bfbee
 #EXTINF:-1,HD Life
 acestream://74a1634a8fe44e5058c865d4de63cde90b14f107
+#EXTINF:-1,History HD
+acestream://b5e4d600404702a7d50e01e64f82ea1d26b68f63
 #EXTINF:-1,Nat Geo Wild HD
 acestream://5347a5417c376ac10cdf9c1a3a26eadbe76c280a
 #EXTINF:-1,National Geographic HD
